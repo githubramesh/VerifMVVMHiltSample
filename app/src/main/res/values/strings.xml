@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerifSample</string>
+    <string name="retry_text">Retry</string>
+    <string name="error_message_text">Something went wrong. Please try again.</string>
+</resources>
